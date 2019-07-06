@@ -177,7 +177,7 @@ client.on("message", message => { //clear
           footer: {
             
           }
-        }}).then(msg => {msg.delete(3000)});
+        }}).then(msg => 112
                             }
   
        
